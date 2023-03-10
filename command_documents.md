@@ -35,9 +35,11 @@
 - checkout: switches to a branch whose name is provided (March 8, 2023)
     - the option **-b** means we create a new branch then switch to it
 
-- branch: 
+- branch: allows you to list, create or delete branches (March 9, 2023)
 
-- merge: 
+- merge: coverge the current branch into another selected branch through a new commit (March 9, 2023)
+
+- rebase: fully combine two branches together (March 9, 2023)
 
 *DevOps*
 
